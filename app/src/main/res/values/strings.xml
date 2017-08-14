@@ -1,0 +1,13 @@
+<resources>
+    <string name="action_sign_in">Войти</string>
+    <string name="demo_btn_next">Дальше</string>
+    <string name="app_name">DotIndicator</string>
+
+    <string name="demo_page1_title">Заголовок 1</string>
+    <string name="demo_page1_body">Здесь должно быть описание первой страницы</string>
+    <string name="demo_page2_title">Заголовок 2</string>
+    <string name="demo_page2_body">Здесь должно быть описание второй страницы</string>
+    <string name="demo_page3_title">Заголовок 3</string>
+    <string name="demo_page3_body">Здесь должно быть описание третьей страницы</string>
+
+</resources>
